@@ -19,6 +19,6 @@ Computational Biology, Fingerprints, etc.
 ## How can you select the instance?
   - In the main method "if __name__ == '__main__':" we have a string variable "directory"
   You can change the directory to input the correct location of file
-  Ex: bonus/3130bonus06Aut.gr
+  Ex: 3130bonus06Aut.gr
 
 ## We have option to run without tree processing, GI, Aut graph.
