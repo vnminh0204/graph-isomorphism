@@ -21,4 +21,4 @@ Computational Biology, Fingerprints, etc.
   You can change the directory to input the correct location of file
   Ex: 3130bonus06Aut.gr
 
-## We have option to run without tree processing, GI, Aut graph.
+## We have options to run without tree processing, GI, Aut graph.
