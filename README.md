@@ -22,3 +22,6 @@ Computational Biology, Fingerprints, etc.
   Ex: 3130bonus06Aut.gr
 
 ## We have options to run without tree processing, GI, Aut graph.
+
+
+# This work main purposes are for studying, practicing and should not be used for any commercial purposes.
