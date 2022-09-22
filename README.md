@@ -24,4 +24,4 @@ Computational Biology, Fingerprints, etc.
 ## We have options to run without tree processing, GI, Aut graph.
 
 
-# This work main purposes are for studying, practicing and should not be used for any commercial purposes.
+## This work main purposes are for studying, practicing and should not be used for any commercial purposes.
