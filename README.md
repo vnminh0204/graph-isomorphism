@@ -6,6 +6,8 @@
 
 # I. Abstractions - Project Overview:
 
+![Example Background](/Graph-Isomorphism-Example.png)
+
 The focus of this project is on practical implementations of algorithms for the notorious graph isomorphism problem, a problem that is still open with respect to its computational complexity which puts the problem closer to P than being NP-hard. Algorithms that can decide if two given
 input graphs are isomorphic or not, or algorithms that detect the (number of) symmetries
 of a given graph, are useful in many practical applications: Mathematical Optimization,
